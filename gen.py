@@ -4,22 +4,35 @@ import sys
 import markovify
 
 
-STATE_SIZE = 1
 BATCH_SIZE = 5
-DATASET = "phil"
+DATASETS = ['cs', 'phil', 'wiwi']
 
 
-def main():
-    units = 'data/{0}/units.txt'.format(DATASET)
-    abstract_units = 'data/{0}/abstract_units.txt'.format(DATASET)
+def get_all_models(state_size):
+    return markovify.combine([get_model(state_size, ds) for ds in DATASETS])
+
+def get_model(state_size, dataset):
+    units = 'data/{0}/units.txt'.format(dataset)
+    abstract_units = 'data/{0}/abstract_units.txt'.format(dataset)
+    #
     with codecs.open(units, 'r', 'utf-8') as f:
         text = f.read()
-    model1 = markovify.NewlineText(text, state_size=STATE_SIZE)
+    model1 = markovify.NewlineText(text, state_size=state_size)
+    #
     with codecs.open(abstract_units, 'r', 'utf-8') as f:
         text =f.read()
-    model2 = markovify.NewlineText(text, state_size=STATE_SIZE)
-
+    model2 = markovify.NewlineText(text, state_size=state_size)
+    #
     model = markovify.combine([model1, model2], [ 1.5, 1 ])
+
+    return model
+
+def main(state_size=1, dataset='phil'):
+
+    if dataset == 'ALL':
+        model = get_all_models(state_size)
+    else:
+        model = get_model(state_size, dataset)
     for i in range(BATCH_SIZE):
         print(model.make_sentence())
 
@@ -37,9 +50,10 @@ def main():
         pass
 
 if __name__ == '__main__':
+    kwargs = {}
     if len(sys.argv) > 1:
-        STATE_SIZE = int(sys.argv[1])
+        kwargs['state_size'] = int(sys.argv[1])
     if len(sys.argv) > 2:
-        DATASET = sys.argv[2]
+        kwargs['dataset'] = sys.argv[2]
 
-    main()
+    main(**kwargs)
