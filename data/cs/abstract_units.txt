@@ -1,0 +1,122 @@
+Algorithmen in der Bioinformatik
+Algorithmen und Datenstrukturen
+Algorithmentheorie I
+Algorithmische Komplexitätstheorie
+Allgemeine Botanik und Zoologie für Biochemiker und Informatiker
+Allgemeine Psychologie I: Wahrnehmung und Denken I
+Allgemeine Psychologie I: Wahrnehmung und Denken II
+Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I
+Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II
+Analysis I
+Analysis I - Tutorium
+Analysis I - Übungen
+Analysis II
+Analysis II - Tutorium
+Analysis II - Übungen
+Analysis III
+Analysis III - Tutorium
+Analysis III - Übungen
+Angewandte Quantenchemie und Computerchemie
+Betriebssysteme
+Bio110: Zell- und Molekularbiologie
+Bio210: Biochemie
+Bio220: Tierphysiologie
+Bio230: Biophysik Vorlesung und Übung
+Bio240: Mikrobiologie
+Bio250: Genetik
+Bio260: Ökologie und Evolution
+Biochemie für Biologen
+Biologische Psychologie I
+Biologische Psychologie II
+Biophysik für Biologen
+Compilerbau
+Computergestützte Analysis / Lineare Algebra
+Computerpraktikum: Einführung in die Quanten- und Computerchemie
+Datenbanksysteme
+Datenbanksysteme - Übungen
+Differentielle Psychologie I
+Differentielle Psychologie II
+Einführung Rechnernetze, Datenbanken und Betriebssysteme
+Einführung in die Allgemeine und Anorganische Chemie
+Einführung in die Quanten- und Computerchemie
+Einführung in die Stochastik
+Einführung in die logische Programmierung
+Elektrizität und Magnetismus
+Ergänzungen zu Mathematische Methoden der Physik II
+Experimentelle Atomphysik
+Experimentelle Mechanik
+From NAND to Tetris
+Graphenalgorithmen I
+Grundlagen der Algorithmen und Datenstrukturen
+Grundlagen der Diagnostik I: Diagnostik
+Grundlagen der Diagnostik II: Testtheorie
+Grundlagen der Softwareentwicklung und Programmierung
+Grundlagen der Technischen Informatik
+Grundlagen der Theoretischen Informatik
+Grundlagen verteilter Systeme
+Grundpraktikum I
+Hardwarenahe Programmierung
+Human-Genomik und biologische Datenanaylse
+Kryptokomplexität I
+Kryptokomplexität I - Seminar
+Kryptokomplexität I - Übungen
+Lineare Algebra I
+Lineare Algebra I - Tutorium
+Lineare Algebra I - Übungen
+Lineare Algebra II
+Lineare Algebra II - Tutorium
+Lineare Algebra II - Übungen
+Machine Learning
+Machine Learning - Übung
+Mathematische Methoden der Physik I
+Mathematische Methoden der Physik II
+Numerik I
+Numerik I - Praktische Übungen
+Numerik I - Übungen
+Numerik II
+Optik
+Organische Chemie für Studierende der Biologie
+PC II: Thermodynamik und chemische Kinetik Vorlesung und Übung
+Physiologische Grundlagen des Verhaltens I
+Physiologische Grundlagen des Verhaltens II
+Praktische Übung zur Einführung in die logische Programmierung
+Praktische Übungen Grundlagen der Softwareentwicklung und Programmierung
+Professionelle Softwareentwicklung
+Programmierpraktikum
+Programmierung
+Präferenzaggregation durch Wählen: Algorithmik und Komplexität
+Quantenmechanik
+Quantitative Methoden I
+Quantitative Methoden II
+Rechnerarchitektur
+Rechnernetze
+Rechnernetze - Hörsaalübung
+Softwareentwicklung im Team
+Sozialpsychologie I
+Theoretische Elektrodynamik
+Theoretische Informatik
+Theoretische Mechanik
+Theoretische Übung zur Einführung in die logische Programmierung
+Theoretsische Übungen - Optik
+Thermodynamik
+Verfahren zur kollektiven Entscheidungsfindung
+Wahrscheinlichkeitstheorie
+Überblick künstliche Intelligenz
+Übungen zu Computergestützte Analysis
+Übungen zu Computergestützte Lineare Algebra
+Übungen zu Einführung in die Stochastik
+Übungen zu Experimentelle Atomphysik
+Übungen zu Experimentelle Mechanik
+Übungen zu Grundlagen der Algorithmen und Datenstrukturen
+Übungen zu Grundlagen der Softwareentwicklung und Programmierung
+Übungen zu Grundlagen der Technischen Informatik
+Übungen zu Grundlagen der Theoretischen Informatik
+Übungen zu Mathematische Methoden der Physik I
+Übungen zu Mathematische Methoden der Physik II
+Übungen zu Numerik II
+Übungen zu Präferenzaggregation durch Wählen: Algorithmik und Komplexität
+Übungen zu Theoretische Elektrodynamik
+Übungen zu Theoretische Mechanik
+Übungen zu Vorlesung Elektrizität und Magnetismus
+Übungen zu Wahrscheinlichkeitstheorie
+Übungen: Programmierpraktikum
