@@ -3,10 +3,10 @@ Algorithmen und Datenstrukturen
 Algorithmentheorie I
 Algorithmische Komplexitätstheorie
 Allgemeine Botanik und Zoologie für Biochemiker und Informatiker
-Allgemeine Psychologie I: Wahrnehmung und Denken I
-Allgemeine Psychologie I: Wahrnehmung und Denken II
-Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I
-Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II
+Allgemeine Psychologie I Wahrnehmung und Denken I
+Allgemeine Psychologie I Wahrnehmung und Denken II
+Allgemeine Psychologie II Lernen, Gedächtnis, Motivation, Emotion I
+Allgemeine Psychologie II Lernen, Gedächtnis, Motivation, Emotion II
 Analysis I
 Analysis I - Tutorium
 Analysis I - Übungen
@@ -18,20 +18,20 @@ Analysis III - Tutorium
 Analysis III - Übungen
 Angewandte Quantenchemie und Computerchemie
 Betriebssysteme
-Bio110: Zell- und Molekularbiologie
-Bio210: Biochemie
-Bio220: Tierphysiologie
-Bio230: Biophysik Vorlesung und Übung
-Bio240: Mikrobiologie
-Bio250: Genetik
-Bio260: Ökologie und Evolution
+Zell- und Molekularbiologie
+Biochemie
+Tierphysiologie
+Biophysik Vorlesung und Übung
+Mikrobiologie
+Genetik
+Ökologie und Evolution
 Biochemie für Biologen
 Biologische Psychologie I
 Biologische Psychologie II
 Biophysik für Biologen
 Compilerbau
 Computergestützte Analysis / Lineare Algebra
-Computerpraktikum: Einführung in die Quanten- und Computerchemie
+Computerpraktikum Einführung in die Quanten- und Computerchemie
 Datenbanksysteme
 Datenbanksysteme - Übungen
 Differentielle Psychologie I
@@ -48,8 +48,8 @@ Experimentelle Mechanik
 From NAND to Tetris
 Graphenalgorithmen I
 Grundlagen der Algorithmen und Datenstrukturen
-Grundlagen der Diagnostik I: Diagnostik
-Grundlagen der Diagnostik II: Testtheorie
+Grundlagen der Diagnostik I Diagnostik
+Grundlagen der Diagnostik II Testtheorie
 Grundlagen der Softwareentwicklung und Programmierung
 Grundlagen der Technischen Informatik
 Grundlagen der Theoretischen Informatik
@@ -76,7 +76,7 @@ Numerik I - Übungen
 Numerik II
 Optik
 Organische Chemie für Studierende der Biologie
-PC II: Thermodynamik und chemische Kinetik Vorlesung und Übung
+Thermodynamik und chemische Kinetik Vorlesung und Übung
 Physiologische Grundlagen des Verhaltens I
 Physiologische Grundlagen des Verhaltens II
 Praktische Übung zur Einführung in die logische Programmierung
@@ -84,7 +84,7 @@ Praktische Übungen Grundlagen der Softwareentwicklung und Programmierung
 Professionelle Softwareentwicklung
 Programmierpraktikum
 Programmierung
-Präferenzaggregation durch Wählen: Algorithmik und Komplexität
+Präferenzaggregation durch Wählen Algorithmik und Komplexität
 Quantenmechanik
 Quantitative Methoden I
 Quantitative Methoden II
@@ -114,9 +114,9 @@ Wahrscheinlichkeitstheorie
 Übungen zu Mathematische Methoden der Physik I
 Übungen zu Mathematische Methoden der Physik II
 Übungen zu Numerik II
-Übungen zu Präferenzaggregation durch Wählen: Algorithmik und Komplexität
+Übungen zu Präferenzaggregation durch Wählen Algorithmik und Komplexität
 Übungen zu Theoretische Elektrodynamik
 Übungen zu Theoretische Mechanik
 Übungen zu Vorlesung Elektrizität und Magnetismus
 Übungen zu Wahrscheinlichkeitstheorie
-Übungen: Programmierpraktikum
+Übungen Programmierpraktikum

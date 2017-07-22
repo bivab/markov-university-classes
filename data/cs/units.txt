@@ -8,10 +8,10 @@ Algorithmische Spieltheorie
 Algorithmische Spieltheorie - Seminar
 Algorithmische Spieltheorie - Übung
 Allgemeine Botanik und Zoologie für Biochemiker und Informatiker
-Allgemeine Psychologie I: Wahrnehmung und Denken I
-Allgemeine Psychologie I: Wahrnehmung und Denken II
-Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I
-Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II
+Allgemeine Psychologie I Wahrnehmung und Denken I
+Allgemeine Psychologie I Wahrnehmung und Denken II
+Allgemeine Psychologie II Lernen, Gedächtnis, Motivation, Emotion I
+Allgemeine Psychologie II Lernen, Gedächtnis, Motivation, Emotion II
 Analysis I
 Analysis II
 Analysis III
@@ -21,13 +21,13 @@ Android-Programmierung
 Angewandte Quantenchemie und Computerchemie
 Architektur verteilter Systeme
 Betriebssysteme
-Bio110: Zell- und Molekularbiologie
-Bio210: Biochemie
-Bio220: Tierphysiologie
-Bio230: Biophysik
-Bio240: Mikrobiologie
-Bio250: Genetik
-Bio260: Ökologie und Evolution
+Zell- und Molekularbiologie
+Biochemie
+Tierphysiologie
+Biophysik
+Mikrobiologie
+Genetik
+Ökologie und Evolution
 Biochemie für Biologen
 Biologische Psychologie I
 Biologische Psychologie II
@@ -35,7 +35,7 @@ Biophysik für Biologen
 Cake-cutting Algorithms
 Compilerbau
 Computergestützte Analysis / Lineare Algebra
-Computerpraktikum: Einführung in die Quanten- und Computerchemie
+Computerpraktikum Einführung in die Quanten- und Computerchemie
 Datenbanksysteme
 Datenbanksysteme - Übungen
 Differentielle Psychologie I
@@ -56,8 +56,8 @@ From NAND to Tetris
 Funktionale Programmierung
 Graphenalgorithmen I
 Grundlagen der Algorithmen und Datenstrukturen
-Grundlagen der Diagnostik I: Diagnostik
-Grundlagen der Diagnostik II: Testtheorie
+Grundlagen der Diagnostik I Diagnostik
+Grundlagen der Diagnostik II Testtheorie
 Grundlagen der Softwareentwicklung und Programmierung
 Grundlagen der Technischen Informatik
 Grundlagen der Theoretischen Informatik
@@ -65,7 +65,7 @@ Grundlagen verteilter Systeme
 Grundpraktikum I
 Hardwarenahe Programmierung
 Information Retrieval and Natural Language Processing
-Knowledge Discovery in Databases: Ausgewählte Themen
+Knowledge Discovery in Databases Ausgewählte Themen
 Kryptokomplexität I
 Kryptokomplexität I - Seminar
 Kryptokomplexität I - Übungen
@@ -84,7 +84,7 @@ Numerik I
 Numerik II
 Optik
 Organische Chemie für Studierende der Biologie
-PC II: Thermodynamik und chemische Kinetik
+Thermodynamik und chemische Kinetik
 Paralleles Rechnen mit Grafikkarten
 Peer-to-Peer Systeme
 Physiologische Grundlagen des Verhaltens I
@@ -95,7 +95,7 @@ Professionelle Softwareentwicklung
 Programmierpraktikum
 Programmierung
 Programmierübungen zu Numerik I
-Präferenzaggretation durch Wählen: Algorithmik und Komplexität
+Präferenzaggretation durch Wählen Algorithmik und Komplexität
 Quantenmechanik
 Quantitative Methoden I
 Quantitative Methoden II
@@ -122,7 +122,7 @@ Zeichnen von Graphen
 Zeichnen von Graphen - Übung
 iOS-Programmierung
 Überblick künstliche Intelligenz
-Übung: Bio230: Biophysik
+Biophysik
 Übungen zu Analysis I
 Übungen zu Analysis II
 Übungen zu Computergestützte Analysis
@@ -138,11 +138,11 @@ iOS-Programmierung
 Übungen zu Mathematische Methoden der Physik II
 Übungen zu Numerik I
 Übungen zu Numerik II
-Übungen zu PC II: Thermodynamik und chemische Kinetik
-Übungen zu Präferenzaggretation durch Wählen: Algorithmik und Komplexität
+Übungen zu Thermodynamik und chemische Kinetik
+Übungen zu Präferenzaggretation durch Wählen Algorithmik und Komplexität
 Übungen zu Wahrscheinlichkeitstheorie
 Übungen zur Experimentellen Mechanik
 Übungen zur Theoretischen Elektrodynamik
 Übungen zur Theoretischen Mechanik
 Übungen zur Vorlesung Elektrizität und Magnetismus
-Übungen: Programmierpraktikum
+Übungen Programmierpraktikum
